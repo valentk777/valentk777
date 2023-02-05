@@ -8,8 +8,6 @@
 ![Valentk777's github stats](https://github-readme-stats.vercel.app/api?username=valentk777&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentk777&langs_count=5&hide=javascript,html,css,assembly,batchfile,objective-c&layout=compact&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentk777&layout=compact)]
-
 <!--
 **valentk777/valentk777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
