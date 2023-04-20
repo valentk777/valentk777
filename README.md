@@ -6,6 +6,9 @@
 
 # Statistics
 ![Valentk777's github stats](https://github-readme-stats.vercel.app/api?username=valentk777&show_icons=true&theme=tokyonight)
+
+[![Valentk777's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=valentk777&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentk777&langs_count=5&hide=javascript,html,css,assembly,batchfile,objective-c&layout=compact&theme=tokyonight)
 
 <!--
