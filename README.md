@@ -9,7 +9,7 @@
 
 [![Valentk777's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=valentk777&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentk777&langs_count=5&hide=html,css,assembly,batchfile,objective-c&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentk777&langs_count=6&hide=html,css,assembly,batchfile,objective-c&layout=compact&theme=tokyonight)
 
 <!--
 **valentk777/valentk777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
